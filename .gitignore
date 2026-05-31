@@ -1,0 +1,25 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+
+# Compiled files
+*.dll
+*.exe
+*.so
+*.dylib
+
+# IDE files
+.idea/
+.vscode/
